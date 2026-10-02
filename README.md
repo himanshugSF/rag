@@ -46,7 +46,7 @@ Create a `.env` file in the project root:
 
 ```dotenv
 # Required
-DATABASE_URL=postgres://postgres:postgres@localhost:5433/rag
+DATABASE_URL=your-db-url
 GEMINI_API_KEY=your-key
 
 # Optional (defaults shown)
